@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+dist/
+.browserslistrc
+jsconfig.json
+package-lock.json
+vue.config.js
+babel.config.js
